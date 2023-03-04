@@ -19,5 +19,6 @@ public class Carro {
                 ", ligado=" + ligado +
                 ", marchaAtual=" + marcha +
                 '}';
+        System.out.println(" teste");
     }
 }
